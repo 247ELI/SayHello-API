@@ -6,4 +6,4 @@
 
  // adding 2 numbers 
 
-// 
+// Kel - Code works as intended 10/10
